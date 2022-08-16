@@ -6,9 +6,21 @@ There are 100 prisoners and everybody must find their number which is hidden in 
 <p>
   The best strategy is finding a box with your number, if your number is not inside, go to the box with number you found inside previous box and repeat until you find it. 
 </p>
-<p>
-  I wanted to try it out and see if this solution works and after running the game many times I plot a graph which shows the results
-  the graph is present below
-</p>
+
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/100_prisoners_problem_qtl1.svg" />
+
+# My Code
+<p>
+  After reading the solution of the problem I was still confused and doubtful about how using such a strategy improves your chance of to 31%
+<p>
+  Decided to create my a replica of the game Using very simple functions and recursion
+</p>
+<p>
+  Then after running the game many times I plot the result and to my surprise the result was exactly around 31%
+</p>
+<img src = "Figure_1.png" />
+
+This video explains the problem in very detail be sure to check it out
+<a href="https://youtu.be/iSNsgj1OCLA">100 prisoners problem</a>
+
