@@ -1,10 +1,10 @@
 # 100 Prisoners Problem
 Source: <a href="https://en.wikipedia.org/wiki/100_prisoners_problem">100 prisoners problem</a>
 <p>
-There are 100 prisoners and everybody must find their number which is hidden in 100 boxes, but they have only 50 tries of finding it. What is the best strategy they could use?
+There are 100 convicts, and each one must locate their unique number, which is concealed in 100 boxes. However, they only have 50 attempts to do so. What would be the best course of action for them?
 </p>
 <p>
-  The best strategy is finding a box with your number, if your number is not inside, go to the box with number you found inside previous box and repeat until you find it. 
+Finding a box with your number inside is the ideal tactic; if it's not there, go to the box with the number you discovered within the previous box, and keep doing this until you do.
 </p>
 
 
