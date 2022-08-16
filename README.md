@@ -12,8 +12,7 @@ There are 100 prisoners and everybody must find their number which is hidden in 
 
 # My Code
 <p>
-  After reading the solution of the problem I was still confused and was still doubtful of the percentage given
-</p>
+  After reading the solution of the problem I was still confused and doubtful about how using such a strategy improves your chance of to 31%
 <p>
   Decided to create my a replica of the game Using very simple functions and recursion
 </p>
@@ -21,3 +20,7 @@ There are 100 prisoners and everybody must find their number which is hidden in 
   Then after running the game many times I plot the result and to my surprise the result was exactly around 31%
 </p>
 <img src = "Figure_1.png" />
+
+This video explains the problem in very detail be sure to check it out
+<a href="https://youtu.be/iSNsgj1OCLA">100 prisoners problem</a>
+
