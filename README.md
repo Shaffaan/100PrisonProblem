@@ -12,7 +12,12 @@ There are 100 prisoners and everybody must find their number which is hidden in 
 
 # My Code
 <p>
-  I wanted to try it out and see if this solution works and after running the game many times I plot a graph which shows the results
-  the graph is present below
+  After reading the solution of the problem I was still confused and was still doubtful of the percentage given
+</p>
+<p>
+  Decided to create my a replica of the game Using very simple functions and recursion
+</p>
+<p>
+  Then after running the game many times I plot the result and to my surprise the result was exactly around 31%
 </p>
 <img src = "Figure_1.png" />
