@@ -19,7 +19,7 @@ There are 100 prisoners and everybody must find their number which is hidden in 
 <p>
   Then after running the game many times I plot the result and to my surprise the result was exactly around 31%
 </p>
-<img src = "Figure_1.png" />
+<img src = "Code/Figure_1.png" />
 
 This video explains the problem in very detail be sure to check it out
 <a href="https://youtu.be/iSNsgj1OCLA">100 prisoners problem</a>
